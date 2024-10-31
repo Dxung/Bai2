@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bai2</string>
+    <string name="search_title">dien ten hoac mssv can tim</string>
+    <string name="search_button">Search</string>
+    <string name="notification" />
+    <string name="no_result_found"> khong tim thay ket qua nao </string>
+    <string name="result_found">ket qua o duoi</string>
+</resources>
